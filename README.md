@@ -20,4 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Follow me
 www.linkedin.com/in/alevi-rdz
+https://alevirdz.github.io/
 https://www.instagram.com/aleviwebcoder/
+
