@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Follow me
 
-<a title="Instagram" href="www.linkedin.com/in/alevi-rdz"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/010-linkedin.svg"/></a>
+<a title="LinkedIn" href="www.linkedin.com/in/alevi-rdz"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/010-linkedin.svg"/></a>
 <a title="Instagram" href="https://www.instagram.com/aleviwebcoder/"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/011-instagram.svg"/></a>
-<a title="Instagram" href="https://alevirdz.github.io/"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/globo.svg"/></a>
+<a title="Web Page" href="https://alevirdz.github.io/"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/globo.svg"/></a>
 
 
