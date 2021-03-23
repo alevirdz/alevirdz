@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 ## Follow me
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/alevi-rdz/" target="_blank"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/010-linkedin.svg"/></a>
-
 <a title="Instagram" href="https://www.instagram.com/aleviwebcoder/" target="_blank"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/011-instagram.svg"/></a>
 <a title="Web Page" href="https://aleviwebcoder.com/" target="_blank"><img align="left" alt="Alevi Rodriguez" width="100px" src="https://github.com/alevirdz/alevirdz/blob/main/globo.svg"/></a>
 
